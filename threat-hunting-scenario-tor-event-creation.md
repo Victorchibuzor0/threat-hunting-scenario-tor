@@ -94,4 +94,6 @@ DeviceFileEvents
 ## Revision History:
 | **Version** | **Changes**                   | **Date**         | **Modified By**   |
 |-------------|-------------------------------|------------------|-------------------|
-| 1.0         | Initial draft                  | `November  6, 2025`  | `Victor Chibuzor`   
+| 1.0         | Initial draft                  | `August  31, 2024`  | `Victor Chibuzor` 
+| 1.1         | Edited Version                  | `September  31, 2026`  | `Victor Chibuzor` 
+
